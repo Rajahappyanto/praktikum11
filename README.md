@@ -6,7 +6,7 @@ ti.22.a2
 ```
 ## Web Scraping Menggunakan Python
 
-##PIP
+## PIP
 
 ```
 note : jika terjadi eror saat instal pip, silahkan pergi ke google dan gunakan ketik get pip py, lalu donwload file tsb cukup dengan copy linknya, lalu paste di script python, (penyimpanan aplikasi python)
