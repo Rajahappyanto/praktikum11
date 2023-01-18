@@ -24,3 +24,9 @@ ti.22.a2
 #### lalu copy atribut dan class nya. 
 
 ### selesai
+
+```
+kind regards
+
+"Raja Happyanto"
+```
